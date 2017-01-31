@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MovieDictionary</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_movie_info">MovieInfo</string>
+    <string name="add_movie">Add Movie</string>
+    <string name="title_activity_add_movie">AddMovieActivity</string>
+    <string-array name="movieGenres">
+        <item>Select Genre</item>
+        <item>Action</item>
+        <item>Adventure</item>
+        <item>Animation</item>
+        <item>Biography</item>
+        <item>Comedy</item>
+        <item>Crime</item>
+        <item>Drama</item>
+        <item>Fantasy</item>
+        <item>History</item>
+        <item>Horror</item>
+        <item>Romance</item>
+        <item>Sci-Fi</item>
+        <item>Thriller</item>
+    </string-array>
+    <string name="serverUrl">http://10.0.2.2:8080</string>
+    <string name="title_activity_media">MediaActivity</string>
+    <string name="urlprefix">http://10.0.2.2:8888/</string>
+</resources>
